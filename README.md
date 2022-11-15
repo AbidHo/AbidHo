@@ -1,5 +1,5 @@
 
-![logo](https://github.com/AbidHo/AbidHo/blob/main/coming%20soon%20Banner%20Landscape.png?raw=true)
+<a href="https://app.daily.dev/knockabid"><img src="https://api.daily.dev/devcards/9f089edf2c8a4525b435dcacfbb583ba.png?r=7ma" width="400" alt="Knockabid's Dev Card"/></a>
 
 <h1 align="center">Hi 👋, I'm Abid Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
