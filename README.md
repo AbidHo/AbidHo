@@ -1,6 +1,4 @@
 
-<a href="https://app.daily.dev/knockabid"><img src="https://api.daily.dev/devcards/9f089edf2c8a4525b435dcacfbb583ba.png?r=7ma" width="400" alt="Knockabid's Dev Card"/></a>
-
 <h1 align="center">Hi 👋, I'm Abid Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -44,4 +42,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abidho&show_icons=true&theme=radical&locale=en" alt="abidho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abidho&theme=dark" alt="abidho" /></p>
+
+<a href="https://app.daily.dev/knockabid"><img src="https://api.daily.dev/devcards/9f089edf2c8a4525b435dcacfbb583ba.png?r=7ma" width="400" alt="Knockabid's Dev Card"/></a>
+
 
